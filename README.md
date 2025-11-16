@@ -1,5 +1,5 @@
 # Fruits-Classification-using-CNN
-Business Challenge: Automatic Fruit Classification for Smart Supermarkets¶
+Business Challenge: Automatic Fruit Classification for Smart Supermarkets
 
 Context
 Supermarkets are increasingly investing in smart self-checkout technologies to optimize customer experience, reduce lines, and eliminate manual weighing and labeling processes for fruits and vegetables. This scenario requires an automatic image-based classification solution, integrated into checkout systems, capable of correctly identifying various types of fruits, vegetables, nuts, and seeds, even under different lighting and positioning conditions.
@@ -22,8 +22,8 @@ Test the model under simulated supermarket conditions (lighting, rotation, multi
 
 Success Metrics
 Metric	Target
-Top-1 Accuracy	≥ 95%
-Top-3 Accuracy	≥ 98%
+Top-1 Accuracy ≥ 95%
+Top-3 Accuracy ≥ 98%
 Inference Latency	≤ 1 second
 Pricing Error Reduction	≥ 30%
 User Feedback (NPS)	≥ 8/10
