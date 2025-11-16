@@ -22,8 +22,8 @@ Test the model under simulated supermarket conditions (lighting, rotation, multi
 
 Success Metrics
 Metric	Target
-Top-1 Accuracy ≥ 95%
-Top-3 Accuracy ≥ 98%
+Top-1 Accuracy  ≥ 95%
+Top-3 Accuracy  ≥ 98%
 Inference Latency	≤ 1 second
 Pricing Error Reduction	≥ 30%
 User Feedback (NPS)	≥ 8/10
