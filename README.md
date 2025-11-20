@@ -1,4 +1,4 @@
-# Fruits Classification using-CNN
+# Fruits Classification using CNN
 Business Challenge: Automatic Fruit Classification for Smart Supermarkets
 
 Context
