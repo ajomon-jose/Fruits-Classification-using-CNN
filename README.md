@@ -40,6 +40,6 @@ Stage	Description
 Preprocessing	Resize to 100x100, normalize pixel values
 Base CNN Model	Custom CNN or pre-trained MobileNet
 Optimization	Early stopping, data augmentation
-Validation	Use the dataset's test set for validation
+Validation	Use the dataset's test set for validation.
 Realistic Simulation	Apply to images captured in real supermarket scenarios using smartphones
 Latency Measurement	Simulate on hardware similar to checkout systems.
